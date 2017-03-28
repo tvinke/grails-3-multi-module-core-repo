@@ -1,0 +1,1 @@
+# grails-3-multi-module-core-repo
